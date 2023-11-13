@@ -101,7 +101,7 @@ sysprep
 
 7. At the command prompt type the following command to map a network location for the image:
 
-   `net use z: \\10.10.0.10\Captures /user:Contoso\Administrator Pa55w.rd`
+   `net use z: \\10.10.0.10\LabFiles\Captures /user:Contoso\Administrator Pa55w.rd`
 
    The Z drive maps to the Captures shared folder on SEA-SVR2.
 
@@ -123,7 +123,7 @@ sysprep
 
 5. On the **Specify Generation** page, ensure that **Generation 1** is selected and then select **Next**.
 
-6. On the **Assign Memory** page, next to **Startup memory** type **4096** and then select **Next**.
+6. On the **Assign Memory** page, next to **Startup memory** type **2048** and then select **Next**.
 
 7. On the **Configure Networking** page, next to **Connection**, select **Internal Network** and then select **Next**.
 
@@ -155,7 +155,7 @@ sysprep
 
 17. At the command prompt type the following command to map a network location for the image:
 
-    `net use z: \\10.10.0.10\Captures /user:Contoso\Administrator Pa55w.rd`
+    `net use z: \\10.10.0.10\LabFiles\Captures /user:Contoso\Administrator Pa55w.rd`
 
     The Z drive maps to the Captures share on SEA-SVR2.
 
