@@ -191,7 +191,7 @@ _Note: This will install the Telnet Client windows feature._
 18. At the PowerShell window, type the following command and then press **Enter**:
 
 ```
-Set-Location E:\Labfiles
+Set-Location D:\Labfiles
 ```
 
 19. At the PowerShell window, type the following and then press **Enter**:
