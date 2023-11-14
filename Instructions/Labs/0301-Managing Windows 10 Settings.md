@@ -235,10 +235,10 @@ You need to ensure that all Windows 10 devices contain the Contoso utilities app
 2. At the PowerShell window, type the following command and then press **Enter**:
 
 ```
-Export-StartLayout -UseDesktopApplicationID -Path E:\Labfiles\ContosoLayout.xml
+Export-StartLayout -UseDesktopApplicationID -Path D:\Labfiles\ContosoLayout.xml
 ```
 
-3. Open **File Explorer** and then browse to **E:\\Labfiles**.
+3. Open **File Explorer** and then browse to **D:\\Labfiles**.
 
 4. Right-click **ContosoLayout.xml**, point to **Open with** and then select **Notepad**.
 
@@ -256,7 +256,7 @@ Export-StartLayout -UseDesktopApplicationID -Path E:\Labfiles\ContosoLayout.xml
 
 1. Sign in to SEA-CL1 as **Contoso\\Administrator** with the password of **Pa55w.rd**.
 
-2. Open **File Explorer** and then browse to **E:\\Labfiles**.
+2. Open **File Explorer** and then browse to **D:\\Labfiles**.
 
 3. Right-click **ContosoLayout.xml**, and then Copy the file.
 
