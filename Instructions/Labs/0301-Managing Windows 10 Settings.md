@@ -140,11 +140,11 @@ _Note: This will install the Telnet Client windows feature._
 
 2. In the content pane, double-click the **Configure** folder.
 
-3. Copy the **Services.ps1** file into the **E:\\Labfiles** folder on SEA-CL1.
+3. Copy the **Services.ps1** file into the **D:\\Labfiles** folder on SEA-CL1.
 
 4. Select **Start** and type **Powershell ISE**. Press **Enter**.
 
-5. In the Windows PowerShell ISE, open the script file **E:\\Labfiles\\Services.ps1**.
+5. In the Windows PowerShell ISE, open the script file **D:\\Labfiles\\Services.ps1**.
 
 6. Read the script, and then note what the script is doing, according to the following note.
 
